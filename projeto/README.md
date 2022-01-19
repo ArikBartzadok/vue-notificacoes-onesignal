@@ -1,5 +1,4 @@
-# vue-notificacoes-onesignal
-🔔Notificações com One Signal
+# projeto
 
 ## Project setup
 ```
