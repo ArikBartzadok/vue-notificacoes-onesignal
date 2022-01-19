@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c46c28b-8ed5-45c6-9bd7-4d59d77735b8/deploy-status)](https://app.netlify.com/sites/competent-archimedes-dffc2a/deploys)
+
 # vue-notificacoes-onesignal
 🔔Notificações com One Signal
 
